@@ -71,24 +71,5 @@ Rust, Python, C, C++
       height="40"
     />
   </a>&nbsp;
-  <a href="https://www.raspberrypi.org/">
-    <img
-      src="img/raspberry-pi.svg"
-      title="Raspberry Pi"
-      alt="Raspberry Pi icon"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-
-  <!-- <a href="https://archlinux.org/">
-    <img
-      src="img/arch-linux.svg"
-      title="Arch Linux"
-      alt="Arch Linux icon"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp; -->
 </div>
  
