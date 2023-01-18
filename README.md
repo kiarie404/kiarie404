@@ -11,9 +11,9 @@
 
 <br>
 
-- A low-level systems developer: kernels and stuff.
-- Rust Developer
-- Learning WebAssembly
+- Software developer
+- Rust Newbie
+- WebAssembly Learner
 - Personal website [link](https://kiarie404.github.io/main_site/index.html)
 
 <br>
