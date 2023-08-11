@@ -33,7 +33,7 @@ Rust, Python, C, C++
   </a>&nbsp;
   <a href="https://riscv.org/">
     <img
-        src="img/riscv_pic"
+        src="img/riscv_pic.png"
         title="Rust"
         alt="Rust Programming Language icon"
         width="40"
