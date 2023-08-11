@@ -31,6 +31,15 @@ Rust, Python, C, C++
         height="40"
     />
   </a>&nbsp;
+  <a href="https://riscv.org/">
+    <img
+        src="img/RISC-V-logo.svg"
+        title="Rust"
+        alt="Rust Programming Language icon"
+        width="40"
+        height="40"
+    />
+  </a>&nbsp;
   <a href="https://webassembly.org/">
     <img
       src="img/web-assembly.svg"
