@@ -9,7 +9,8 @@
 
 <br>
 
-Rust developer, into low-level systems development AND WebAssembly integration to embedded devices.  Yea, Old tech and constantly re-inventing the wheel.   
+Rust developer, into low-level systems development AND WebAssembly integration to embedded devices.<br>
+Yea, Old tech and constantly re-inventing the wheel.   
 
 <br>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> -->
