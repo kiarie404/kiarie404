@@ -9,7 +9,7 @@
 
 <br>
 
-Rust developer, into low-level systems development AND WebAssembly integration to embedded devices.<br>
+Rust developer, into low-level systems development AND WebAssembly integration to embedded devices.<br><br>
 Yea, Old tech and constantly re-inventing the wheel.   
 
 <br>
