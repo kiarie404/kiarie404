@@ -57,6 +57,7 @@ Rust, Python, C, C++
       alt="mdbook documentation"
       width="40"
       height="40"
+      background-color="white"
     />
   </a>&nbsp;
   <a href="https://git-scm.com/">
