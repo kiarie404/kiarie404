@@ -50,6 +50,15 @@ Rust, Python, C, C++
       height="40"
     />
   </a>&nbsp;
+  <a href="https://rust-lang.github.io/mdBook/">
+    <img
+      src="img/mdbook_logo.png"
+      title="mdbook"
+      alt="mdbook documentation"
+      width="40"
+      height="40"
+    />
+  </a>&nbsp;
   <a href="https://git-scm.com/">
     <img
       src="img/git.svg"
@@ -58,15 +67,7 @@ Rust, Python, C, C++
       width="40"
       height="40"
     />&nbsp;
-  <a href="https://github.com/">
-    <img
-      src="img/github.svg"
-      title="GitHub"
-      alt="GitHub icon"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
+  
   <a href="https://code.visualstudio.com/">
     <img
       src="img/vscode.svg"
