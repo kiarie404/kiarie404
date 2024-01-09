@@ -12,7 +12,10 @@
 Rust developer, into firmware development AND WebAssembly integration to embedded devices.<br><br>
 Yea, Old tech and constantly re-inventing the wheel.<br>
 
-Masochist, I like to tinker with embedded Oses and bare runtimes.<br>
+Masochist, I like to tinker with embedded Oses and bare runtimes.<br><br>
+
+
+Currently learning Embedded and Concurrent Rust
  
 
 <br>
