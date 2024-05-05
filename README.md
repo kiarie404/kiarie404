@@ -69,15 +69,5 @@ Rust, Python, C, C++
       width="40"
       height="40"
     />&nbsp;
-  
-  <a href="https://code.visualstudio.com/">
-    <img
-      src="img/vscode.svg"
-      title="VS Code"
-      alt="VS Code icon"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
 </div>
  
