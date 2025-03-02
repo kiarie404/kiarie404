@@ -10,7 +10,7 @@
 <br>
 
 Rust developer, into firmware development AND WebAssembly integration to embedded devices.<br><br>
-Currently learning Embedded and Concurrent Rust
+Currently learning Embedded, Concurrent Rust and a bit of hardware design
  
 
 <br>
