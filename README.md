@@ -24,7 +24,7 @@ I no longer relate.
 Rust, Python, C, C++
 <br>    -->
 
-## Languages and Technologies
+## Utils
 
 <div>
   <a href="https://www.rust-lang.org/">
