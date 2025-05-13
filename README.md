@@ -45,7 +45,7 @@ Rust, Python, C, C++
         height="40"
     />
   </a>&nbsp;
-  <a href="https://webassembly.org/">
+<!--   <a href="https://webassembly.org/">
     <img
       src="img/web-assembly.svg"
       title="WebAssembly"
@@ -71,6 +71,6 @@ Rust, Python, C, C++
       alt="Git icon"
       width="40"
       height="40"
-    />&nbsp;
+    />&nbsp; -->
 </div>
  
