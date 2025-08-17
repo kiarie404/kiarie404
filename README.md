@@ -13,6 +13,8 @@
 Currently learning Embedded, Concurrent Rust and a bit of hardware design -->
 
 untrue but amounting.<br>
+lost, but with growing conviction. <br>
+ungrown.  
 
 
  
